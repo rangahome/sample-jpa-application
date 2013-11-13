@@ -3,8 +3,4 @@
 *.iml
 *.ipr
 *.iws
-target/classes/META-INF/persistence.xml
-target/classes/com/rangahome/domain/Employee.class
-target/classes/com/rangahome/domain/EmployeeService.class
-target/test-classes/com/rangahome/EmployeeTest.class
-target/test-classes/com/rangahome/EmployeeTestInteractive.class
+target/*
